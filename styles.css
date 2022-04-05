@@ -1,0 +1,164 @@
+/*.mynav{
+  background-color: #F24A72;
+<i class="fa-brands fa-google-play"></i>
+}*/
+
+.toggler{
+  border-radius: 360px;
+  height:40px;
+  width:50px;
+  border-color:white;
+}
+.iphone{
+width:60%;
+transform: rotate(25deg);
+position: relative;
+
+
+}
+/*.afternav{
+  background-color: #F24A72;
+}*/
+.second{
+  background-color: #fff;
+
+}
+.h1{
+  color: #F7F5F2;
+font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+}
+#title{
+  background-color: #ff4c68;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding:0px 18px;
+}
+.brand{
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 3.5rem;
+}
+.container-fluid{
+  padding:20px 200px;
+}
+.top{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.btn{
+  margin: 5% 3% 5% 0%;
+}
+.tick{
+  margin-left: 25px;
+  color:#FD5D5D;
+}
+.tick:hover{
+  color: red;
+}
+
+.one{
+  text-align: center;
+  padding-top: 250px;
+  padding-bottom: 250px;
+  position: relative;
+
+
+
+
+}
+.easy{
+  margin-bottom: 20px;
+}
+.slide{
+
+  background-color: #FD5D5D;
+  color:#fff;
+  text-align: center;
+}
+h2{
+    font-family: 'Montserrat-bold', sans-serif;
+    font-size: 3rem;
+    line-height: 3rem;
+
+}
+.imgs{
+  padding: 5% 1%;
+  height: 200px;
+  width:20%;
+  height:20%;
+
+}
+.dog{
+  border-radius: 100%;
+  width:20%;
+}
+.support{
+  background-color: #FD5D5D;
+  text-align: center;
+
+}
+.carousel-item{
+  padding:7% 15%;
+}
+.pricing{
+  text-align: center;
+  padding: 3% 2%;
+}
+.cards{
+  padding: 3% 2%;
+}
+#cta{
+  background-color: #FD5D5D;
+  text-align: center;
+  padding: 8% 3%;
+  color:#fff;
+
+      font-family: 'Montserrat-bold', sans-serif;
+}
+.last{
+
+  font-family: 'Montserrat', sans-serif;
+position: relative;
+text-align: center;
+      font-size: 3rem;
+      line-height: 3rem;
+
+}
+#footer{
+  width:20%;
+  text-align: center;
+padding: 3% 2%;
+  margin:auto;
+
+}
+.foot{
+
+  text-align: center;
+}
+.refer{
+  padding: 2% 3%;
+  height: 50px;
+  width: 50px;
+}
+.refer:hover{
+  border-radius: 100%;
+  color: #FF6B6B;
+}
+.h{
+  text-align: center;
+  padding-top: 30px;
+}
+@media (max-width:992px){
+  .iphone{
+    transform: rotate(0);
+  }
+    .top{
+      text-align: center;
+    }
+
+}
